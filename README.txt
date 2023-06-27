@@ -1,0 +1,3 @@
+Hello!
+
+In order to write my code, I did turn to ChatGPT for simple help such as the how to add color to the positive and negative yearly changes part of the assignment. I used a lot of help from Google as well, specifically with Dim and creating variables. I also used a lot of our precious examples from in class to refer to while writing my code. I may have made an error in using the correct values when calculating the yearly change, but unfortunatley I am not entirely sure as there is nothing to refrence against. 
